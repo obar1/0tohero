@@ -6,10 +6,11 @@ True
 
 ## legend:
 
-:green_heart: completed
-:footprints: wip
+| footprints | completed | 
+|---|---|---|
+| :green_heart: | :green_heart: |
 
-> gcp specific
+> extra
 
 | quest | lab | template | game | course |
 |---|---|---|----|---|
