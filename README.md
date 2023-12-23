@@ -10,6 +10,7 @@ True
 :footprints: wip
 
 > gcp specific
+
 | quest | lab | template | game | course |
 |---|---|---|----|---|
 | :cyclone: | :floppy_disk: | :whale: | :snake: | :pushpin: |
