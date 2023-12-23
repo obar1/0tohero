@@ -7,15 +7,15 @@ True
 ## legend:
 
 | footprints | completed | 
-|---|---|---|
-| :green_heart: | :green_heart: |
+|---|---|
+| :footprints: | :green_heart: |
 
 > extra
-
+>
 | quest | lab | template | game | course |
 |---|---|---|----|---|
 | :cyclone: | :floppy_disk: | :whale: | :snake: | :pushpin: |
-        
+
 
 1. # Scheduling a SQL script, using Apache Airflow, with an example [`here`](https§§§www.startdataengineering.com§post§-to-schedule-a-sql-script-using-apache-airflow-with-an-example§/readme.md) :footprints: :pushpin:
         
