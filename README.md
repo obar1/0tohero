@@ -18,4 +18,5 @@ True
 
 
 1. # Scheduling a SQL script, using Apache Airflow, with an example [`here`](https§§§www.startdataengineering.com§post§how-to-schedule-a-sql-script-using-apache-airflow-with-an-example§/readme.md) :green_heart: :pushpin:
+1. # What Does It Mean for a Column to Be Indexed [`here`](https§§§www.startdataengineering.com§post§what-does-it-mean-for-a-column-to-be-indexed§/readme.md) :green_heart: :pushpin:
         
