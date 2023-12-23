@@ -1,5 +1,5 @@
-# <https§§§www.startdataengineering.com§post§-to-schedule-a-sql-script-using-apache-airflow-with-an-example§>
-> <https://www.startdataengineering.com/post/-to-schedule-a-sql-script-using-apache-airflow-with-an-example/>
+# <https§§§www.startdataengineering.com§post§how-to-schedule-a-sql-script-using-apache-airflow-with-an-example§>
+> <https://www.startdataengineering.com/post/how-to-schedule-a-sql-script-using-apache-airflow-with-an-example/>
 
 # Scheduling a SQL script, using Apache Airflow, with an example
 
