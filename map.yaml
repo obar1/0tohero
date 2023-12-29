@@ -1,4 +1,4 @@
-type: map
+type: ztoh-map
 repo:
   path: "."
   map_md: "README.md"
