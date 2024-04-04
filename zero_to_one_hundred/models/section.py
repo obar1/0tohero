@@ -36,6 +36,9 @@ class Section(MarkdownRenderer):
 
         self.is_done = is_done
 
+    def __repr__(self):
+        return f"Section {self.http_url}  {self.dir_readme_md } {self.is_done } {self.dir_name }"
+
     def asMarkDown(self):
         return (
             "1. "
@@ -235,7 +238,7 @@ class Section(MarkdownRenderer):
             res = next(item for item in a if item is not None)
         except StopIteration:
             return ""
-        return res  
+        return res
 
     def __eq__(self, other):
         if other is self:
